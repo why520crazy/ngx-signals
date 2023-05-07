@@ -1,6 +1,9 @@
 {
   "name": "ngx-signals",
   "version": "0.0.1",
+  "repository": {
+    "url": "https://github.com/why520crazy/ngx-signals"
+  },
   "peerDependencies": {
     "@angular/common": "^15.2.0",
     "@angular/core": "^15.2.0"
